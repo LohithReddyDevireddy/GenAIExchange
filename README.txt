@@ -1,0 +1,1 @@
+Fill in your own Gemini AI API key in the ".env" file before using the program.
